@@ -1,2 +1,3 @@
-# debian-sample-package
-Debian package sources for a hello world application
+## Development branch
+
+This branch represents the upstream development.
